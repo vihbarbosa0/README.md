@@ -2,7 +2,7 @@
 
 meu nome é Vitória barbosa 
 
-- Estou estudando na Alura;
+- Estou estudando na[Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos. 
 
@@ -10,6 +10,6 @@ meu nome é Vitória barbosa
 
 - Ribeiro.silva.vitoria1201@escola.pr.gov.br
 
-!.{}.(![image](https://github.com/vihbarbosa0/README.md/assets/133284645/8a519220-17c7-4ce3-9ab0-bf6bcfd9c60e)
+!.[].(![image](https://github.com/vihbarbosa0/README.md/assets/133284645/8a519220-17c7-4ce3-9ab0-bf6bcfd9)
 
 
